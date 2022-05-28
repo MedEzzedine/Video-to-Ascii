@@ -30,7 +30,7 @@ or
 
 <center><b>ASCII Art:</b></center>
 
-```bash
+```shell
 xxxxxxxxxxxXXXXXXXXXXXXXXXX$$$$$$$$$$$$$$$$$$$$$$$
 xxxxxxxxxxxxXXXXXXXXXXXXXXXX$$$$$$$$$$$$$$$$$$$$$$
 xxxxxxxxxxxxXXXXXXXXXXxxxx=xxXXX$$$$$$$$$$$$$$$$$$
